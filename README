@@ -8,12 +8,3 @@ The crawler does the following things
 python github-crawler.py <username>
 e.g.
 python github-crawler.py prashantpandeyfun10
-
-Dependancies
-
-install libxml2 from here
-http://www.linuxfromscratch.org/blfs/view/cvs/general/libxml2.html
-
-install libxslt from here
-http://www.linuxfromscratch.org/blfs/view/6.3/general/libxslt.html
-
